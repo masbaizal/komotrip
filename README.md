@@ -16,8 +16,8 @@ POI Time Matrix
 - durasi : time duration between POI id_a to POI id_b
   
 POI Dataset
-no : data number
-poi_id : id of POI
-open_hour : open hour of POI
-close_hour : open hour of POI
-day : day
+- no : data number
+- poi_id : id of POI
+- open_hour : open hour of POI
+- close_hour : open hour of POI
+- day : day
