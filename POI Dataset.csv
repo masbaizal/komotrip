@@ -1,4 +1,4 @@
-id,name,type,latitude,longitude,tarif,durasi,rating
+id,name,type,latitude,longitude,tariff,duratio,rating
 1,MALIOBORO JOGJAKARTA,location,-7.7925764,110.365843,0,5400,4.8
 2,Tourism Zone Malioboro,location,-7.7982487,110.3652793,0,3600,4.7
 3,Plengkung Gading,location,-7.8137278,110.3629074,0,1800,4.6
@@ -186,3 +186,4 @@ id,name,type,latitude,longitude,tarif,durasi,rating
 185,Grand Tjokro Yogyakarta,hotel,-7.7669396,110.39149909999999,0,0,4.4
 186,Grage Bussines Hotel Yogyakarta,hotel,-7.7913443,110.3622759,0,0,4.3
 187,Hotel Laxston Jl. Magelang,hotel,-7.7801399,110.36065669999999,0,0,4.2
+
