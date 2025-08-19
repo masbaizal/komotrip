@@ -1,4 +1,4 @@
-id,id_tempat,jam_buka,jam_tutup,hari
+no,poi_id,open_hour,close_hour,day
 1,1,00:00,23:59,monday
 2,2,00:00,23:59,monday
 3,3,00:00,23:59,monday
@@ -691,4 +691,5 @@ id,id_tempat,jam_buka,jam_tutup,hari
 690,96,00:00,23:59,sunday
 691,97,08:30,18:00,sunday
 692,98,00:00,00:00,sunday
+
 693,99,09:00,16:30,sunday
