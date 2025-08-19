@@ -1,5 +1,4 @@
 POI Dataset
-- no : data number
 - id : id of POI
 - name : name of POI
 - type : type of POI
