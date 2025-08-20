@@ -14,7 +14,7 @@ POI Time Matrix
 - id_a,id_b : index -> Time Matrix[POI id_a,POI id_b]
 - durasi : time duration between POI id_a to POI id_b
   
-POI Dataset
+POI Schedule
 - no : data number
 - poi_id : id of POI
 - open_hour : open hour of POI
